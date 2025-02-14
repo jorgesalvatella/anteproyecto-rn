@@ -3,7 +3,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <img src="/images/Logo-Rosa-Negra.png" alt="Logo Rosa Negra" />
+      <img src="/anteproyecto-rn/Logo-Rosa-Negra.png" alt="Logo Rosa Negra" />
       <h1>Anteproyecto de Capacitación</h1>
       
 
