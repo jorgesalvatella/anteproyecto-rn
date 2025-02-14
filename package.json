@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jorgesalvatella.github.io/anteproyecto-rosa-negra/", 
+  "homepage": "https://jorgesalvatella.github.io/anteproyecto-rn/", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
